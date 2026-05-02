@@ -11,7 +11,7 @@ OFDM baseline over TDL channels.
 - `SISOOFDMTDL.py` - OFDM baseline model.
 - `comparision.py` - runs BER simulations and writes
   `comparison_ber_results.png`.
-- `otfs.ipynb` / `otfs.md` - exploratory walkthrough and notes.
+- `otfs.ipynb` - prototype and walkthrough notebooks.
 
 Install the main Python dependencies in your environment:
 
