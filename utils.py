@@ -3,9 +3,6 @@ def release(grid):
     batch_dims = grid.shape[:-2]
     return grid.reshape(*batch_dims, -1).contiguous()
 
-import torch
-
-
 def generate_hdd_from_ht(
     h_t: torch.Tensor,
     M: int,
