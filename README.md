@@ -1,5 +1,7 @@
 # OTFS-Transceiver-In-PyTorch
+Preview results
 
+![Result plot](comparison_ber_results.png)
 Python experiments for OTFS modulation using PyTorch and NVIDIA Sionna. The project includes OTFS modulation/demodulation, delay-Doppler grid handling, an LMMSE equalizer, and a BER comparison against an
 OFDM baseline over TDL channels.
 
