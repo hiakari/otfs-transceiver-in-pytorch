@@ -42,4 +42,10 @@ The modules use package imports such as `from OTFS.ddgrid import DDGrid`, so run
 commands from the parent directory of `OTFS` or make sure that parent directory
 is on `PYTHONPATH`.
 
+References
+
+
+[1] H. Li and Q. Yu, "Doubly-Iterative Sparsified MMSE Turbo Equalization for OTFS Modulation," 2024. [Online]. Available: https://arxiv.org/abs/2207.00866
+
+[2] R. Hadani et al., "Orthogonal Time Frequency Space Modulation," arXiv:1808.00519, 2018. [Online]. Available: https://arxiv.org/abs/1808.00519
 
